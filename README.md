@@ -1,2 +1,2 @@
 # test-2
-lab 01
+This is just a test!
