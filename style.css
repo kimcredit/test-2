@@ -4,4 +4,12 @@ body {
 
 p {
     color: rgb(67, 67, 143);
+
+    &:hover {
+        color: purple;
+    }
+}
+
+body {
+    font: 100%/1.5 system-ui;
 }
